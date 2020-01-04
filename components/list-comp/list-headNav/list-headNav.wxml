@@ -1,0 +1,23 @@
+<view class="nav-wrap">
+  <view>
+  <text>合租/整租</text>
+  <view></view>
+  </view>
+  <view>
+  <text>位置</text>
+  <view></view>
+  </view>
+  <view>
+  <text>租金</text>
+  <view></view>
+  </view>
+  <view>
+  <text>筛选</text>
+  <view></view>
+  </view>
+  <view>
+  <view></view>
+  今天先这么着吧 写不进去了
+  </view>
+
+</view>

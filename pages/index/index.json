@@ -1,9 +1,9 @@
 {
   "usingComponents": {
-<<<<<<< HEAD
-    "list-comp":"../../components/list-comp/list-comp"
-=======
+
+    "list-comp":"../../components/list-comp/list-comp",
+
     "search": "../../components/search/search"
->>>>>>> wy
+
   }
 }

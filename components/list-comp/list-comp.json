@@ -1,4 +1,6 @@
 {
   "component": true,
-  "usingComponents": {}
+  "usingComponents": {
+    "list-headNav":"./list-headNav/list-headNav"
+  }
 }

@@ -1,0 +1,8 @@
+/* components/list-comp/list-compchildren/list-headNav/list-headNav.wxss */
+.nav-wrap{
+  width: 100%;
+  height: 50rpx;
+  font-size: 30rpx;
+  display: flex;
+  justify-content: space-between;
+}

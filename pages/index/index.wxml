@@ -1,9 +1,14 @@
-<<<<<<< HEAD
-<view>
-  <list-comp></list-comp>
-</view>
-=======
 <view class="wrap-index">
   <search></search>
 </view>
->>>>>>> wy
+
+
+
+
+
+<view>
+  <list-comp></list-comp>
+</view>
+
+
+
