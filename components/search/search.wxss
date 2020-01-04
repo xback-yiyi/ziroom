@@ -1,0 +1,9 @@
+/* components/search.wxss */
+.wrap-search{
+  display: flex;
+}
+.wrap-search>text {
+  font-size: 36rpx;
+  color: #151515;
+
+}
