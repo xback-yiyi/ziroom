@@ -1,9 +1,19 @@
 /* components/search.wxss */
 .wrap-search{
   display: flex;
+  justify-content: space-between;
 }
 .wrap-search>text {
   font-size: 36rpx;
   color: #151515;
-
+  width: max-content;
+}
+.wrap-search>input {
+  width: 75%;
+  height: 50rpx;
+  font-size: 30rpx;
+  line-height: 50rpx;
+  padding-left: 30rpx;
+  background-color: #ccc;
+  border-radius: 50rpx;
 }
