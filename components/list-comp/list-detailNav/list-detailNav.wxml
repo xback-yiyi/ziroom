@@ -1,0 +1,8 @@
+<!--components/list-comp/list-detailNav/list-detailNav.wxml-->
+<view class="dnav-wrap">
+  <view class="option1 option">深呼吸</view>
+  <view class="option">限时特惠</view>
+  <view class="option">非首次出租</view>
+  <view class="option">VR看房</view>
+  <view class="option">视频看房</view>
+</view>

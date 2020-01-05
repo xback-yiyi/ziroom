@@ -1,4 +1,5 @@
 <!--components/list-comp/list-comp.wxml-->
 <view>
 <list-headNav></list-headNav>
+<list-detailNav></list-detailNav>
 </view>

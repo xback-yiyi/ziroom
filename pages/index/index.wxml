@@ -1,14 +1,12 @@
 <view class="wrap-index">
   <search></search>
-</view>
-
-
-
-
-
-<view>
   <list-comp></list-comp>
 </view>
+
+
+
+
+
 
 
 
