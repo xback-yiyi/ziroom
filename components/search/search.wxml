@@ -1,6 +1,6 @@
 <!--components/search.wxml-->
 <view class="wrap-search">
-  <text>北京</text>
+  <text>北京 <text class="iconfont icon-icon-test1"></text></text>
   <input class="weui-input" auto-focus placeholder="你想住在哪？"/>
 </view>
 
