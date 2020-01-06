@@ -1,3 +1,29 @@
 .wrap-index{
   padding: 0 30rpx;
 }
+.swiper-wrap image{
+  height: 230rpx;
+}
+swiper{
+  margin-top: 30rpx;
+  height: 300rpx;
+}
+.kong-wrap{ 
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20rpx;
+}
+.kong-wrap>view {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 15%;
+  align-items: center;
+}
+.kong-wrap>view>image{
+  width: 80%;
+  height: 80rpx;
+}
+.kong-wrap>view>text {
+  font-size: 25rpx;
+}
