@@ -1,5 +1,6 @@
 {
   "pages": [
+    "components/resblock/resblock",
     "pages/index/index"
   ],
   "window": {
